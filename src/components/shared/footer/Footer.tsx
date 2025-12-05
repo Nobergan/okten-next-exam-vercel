@@ -5,7 +5,7 @@ import { FacebookIcon, TelegramIcon, InstagramIcon } from './icons';
 
 export default function Footer() {
   return (
-    <footer className='w-full bg-black text-white/90'>
+    <footer className='w-full bg-[#0a0a0a] text-white/90'>
       <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
         <div className='flex flex-col items-center gap-6 pt-[52px] pb-10 md:grid md:grid-cols-3 md:items-center md:gap-8'>
           {/* Logo */}
